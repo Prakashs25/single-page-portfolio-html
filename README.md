@@ -1,8 +1,8 @@
 # Single Page Portfolio
 
-This is a simple portfolio with sleek design built using HTML, CSS, JavaScript.
+## See the Project Demo live <a href="https://prakashs25.github.io/single-page-portfolio-html/" target="_blank">here</a>
 
-## See the Project live <a href="https://prakashs25.github.io/single-page-portfolio-html/" target="_blank">here</a>
+This is a simple portfolio with sleek design built using HTML, CSS, JavaScript.
 
 In the project directory, you will find a file : `index.html`
 Double click the file and see the results in your favourite browser.
